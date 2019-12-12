@@ -1,7 +1,7 @@
 //const SpeechToTextV1 = require('ibm-watson/speech-to-text/v1');
 //const { IamAuthenticator } = require('ibm-watson/auth');
 const express = require('express');
-const app = express();
+//const app = express();
 
 //const speechToText = new SpeechToTextV1({
  // authenticator: new IamAuthenticator({
@@ -31,4 +31,4 @@ connection.query('SELECT * from XXIBM_PRODUCT_CATALOGUE', function (err, rows, f
 
 connection.end();
 
-app.listen(3000, () => console.log("Server Up and Running"));
+//app.listen(3000, () => console.log("Server Up and Running"));
