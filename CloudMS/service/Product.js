@@ -1,5 +1,5 @@
 var request = require('request');
-
+console.log(5);
 var Products = {
    find: function(req, res, next) {
        //var a = 1;
