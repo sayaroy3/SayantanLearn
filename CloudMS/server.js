@@ -4,6 +4,7 @@ const app = express();
 
 const routes = require('./api/routes');
 //routes(app);
+console.log(1);
 app.use('/product', routes);
 //app.listen(port, function() {
   // console.log('Server started on port: ' + port);
