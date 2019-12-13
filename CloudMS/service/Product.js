@@ -1,20 +1,20 @@
 var request = require('request');
-console.log(5);
-var Products = {
-   find: function(req, res, next) {
-       //var a = 1;
-       //var b= 2;
-       var mysql = require('mysql');
-       var connection = mysql.createConnection({
+var mysql = require('mysql');
+
+var connection = mysql.createConnection({
          host: 'custom-mysql.gamification.svc.cluster.local',
          port     : '3306',
          user     : 'xxuser',
          password : 'welcome1',
          database : 'sampledb'
        });
-       console.log(connection);
-       connection.connect();
-       
+
+var Products = {
+   find: function(req, res, next) {
+       //var a = 1;
+       //var b= 2; 
+       //console.log(connection);
+       connection.connect(); 
        connection.query('SELECT * from XXIBM_PRODUCT_CATALOGUE', function (err, rows, fields) {
          if (err) throw err;
          res.send(rows);     
