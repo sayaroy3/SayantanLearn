@@ -21,7 +21,7 @@ var Products = {
          //console.log('The solution is: ', rows);
        });
        
-       connection.end();
+      // connection.end();
         //var jsonfyres = JSON.stringify({'distance1' : a, 'distance2' : b});
        // res.send(jsonfyres);
    }
