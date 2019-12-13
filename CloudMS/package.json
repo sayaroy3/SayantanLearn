@@ -1,5 +1,5 @@
 {
-  "name": "cloudms",
+  "name": "smartbuyms",
   "version": "1.0.0",
   "description": "Cloud NOdeJS for OpenShift",
   "main": "server.js",
