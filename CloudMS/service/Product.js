@@ -21,9 +21,10 @@ var Products = {
             var rows = '{items:' + rows + '}';
          res.send(rows);     
          //console.log('The solution is: ', rows);
+         connection.end();      
        });
        
-      // connection.end();
+      
         //var jsonfyres = JSON.stringify({'distance1' : a, 'distance2' : b});
        // res.send(jsonfyres);
    }
