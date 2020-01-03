@@ -19,7 +19,7 @@ var Products = {
         if (err) throw err;
         var rows = JSON.stringify(rows);
          rows = '{data:' + rows + '}';
-         
+         res.setHeader('Access-Control-Allow-Origin', '*');
          res.send(rows);     
          //console.log('The solution is: ', rows);
          
