@@ -6,7 +6,7 @@ console.log(4);
 var controllers = {
    getProducts: function(req, res) {
     var newvar = req.params.pid;
-    console.log(newvar);
+    //console.log(newvar);
     products.find(req, res, newvar, function(err, productlist) {
                if (err)
                    res.send(err);
