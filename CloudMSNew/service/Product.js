@@ -10,7 +10,7 @@ var connection = mysql.createConnection({
        });
 
 var Products = {
-   find: function(req, res, next) {
+   find: function(req, res, newvar, next) {
        //var a = 1;
        //var b= 2; 
        //console.log(connection);
