@@ -7,7 +7,7 @@ var controllers = {
    getProducts: function(req, res) {
     var newvar = req.params.pid;
     console.log(newvar);
-    products.find(req, res, function(err, productlist) {
+    products.find(req, res, newvar, function(err, productlist) {
                if (err)
                    res.send(err);
                res.json(productlist);
