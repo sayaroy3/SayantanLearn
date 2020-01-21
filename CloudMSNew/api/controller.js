@@ -2,11 +2,11 @@
 
 var properties = require('../package.json');
 var products = require('../service/Product');
-console.log(4);
+
 var controllers = {
    getProducts: function(req, res) {
     var newvar = req.params.pid;
-    //console.log(newvar);
+    // calling function find from Service--Products
     products.find(req, res, newvar, function(err, productlist) {
                if (err)
                    res.send(err);
