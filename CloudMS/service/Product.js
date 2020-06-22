@@ -1,13 +1,21 @@
 var request = require('request');
-var mysql = require('mysql');
+var express       = require('express');
+var pg            = require('pg');
+var config = {
+  user: 'admin',
+  database: 'sampledb',
+  host: 'localhost',
+  password: 'admin123',
+  port: 5432
+};
 
-var connection = mysql.createConnection({
-         host: 'custom-mysql.gamification.svc.cluster.local',
-         port     : '3306',
-         user     : 'xxuser',
-         password : 'welcome1',
-         database : 'sampledb'
-       });
+console.log("config : "+JSON.stringify(config));
+var pool = new pg.Pool(config);
+pool.query('SELECT NOW()', function(err, res) {
+  if (err) throw err
+  console.log(res.rows)
+})
+
 
 var Products = {
    find: function(req, res, next) {
