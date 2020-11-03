@@ -1,0 +1,3 @@
+ INCIDENT_NUMBER                                              SMRRY                           SERVICE_CI
+ INC000013960071                       Missing Sales data from EDDA                         weekly sales
+ INC000013959887  Partial order data missing for batch date:6th ...  retail sales & gross margin reports
