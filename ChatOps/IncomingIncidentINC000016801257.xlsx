@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER                          SMRRY               INCIDENT_TYPE     SERVICE_CI INC_PRIORITY              ASSIGNEE INC_STATUS                    INC_RESOLUTION    LAST_RESOLVED_DAT INC_CATEGORY SOL_AREA   YR_WK
+  2019-12-12  INC000013997647  idss, fbil, HOLD .e iteration  Infrastructure Restoration  idss platform         High  Ankita Roy Chowdhury   Resolved  jobs were released and completed  2019-12-12 00:00:00   Data Issue      OBP  201950
+  2019-12-12  INC000013996575  idss, fbil, HOLD .d iteration  Infrastructure Restoration  idss platform         High       Antariksh Gupta   Resolved                         forced-ok  2019-12-12 00:00:00   Data Issue      OBP  201950
