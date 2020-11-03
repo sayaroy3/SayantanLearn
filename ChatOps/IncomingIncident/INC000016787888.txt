@@ -1,0 +1,3 @@
+ INCIDENT_NUMBER                                              SMRRY                           SERVICE_CI
+ INC000013979629  POSLOG missing for batch date 9th dec for all ...  retail sales & gross margin reports
+ INC000013966879      AU_557 -POSLOG missing for batch date 8th Dec  retail sales & gross margin reports
