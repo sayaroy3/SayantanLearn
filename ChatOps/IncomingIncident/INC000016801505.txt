@@ -1,3 +1,0 @@
- INCIDENT_NUMBER                                              SMRRY              SERVICE_CI
- INC000013973100  RU - 336 - ipos missing  sales for store expec...  market basket analysis
- INC000014004759  RU - 336 - ipos missing  sales for store RU - ...  market basket analysis
