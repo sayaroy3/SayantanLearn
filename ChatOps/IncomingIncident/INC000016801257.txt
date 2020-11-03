@@ -1,0 +1,3 @@
+ INCIDENT_NUMBER SOL_AREA                          SMRRY     SERVICE_CI  SummarySimilarity  ServiceSimilarity
+ INC000015752246      OBP           idss, fbil , hold **  idss platform          80.000000                100
+ INC000014053543      OBP  idss, mckpi, fbil,  HOLD ****  idss platform          73.029674                100
