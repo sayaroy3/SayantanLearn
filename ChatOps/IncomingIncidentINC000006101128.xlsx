@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER                                   SMRRY         INCIDENT_TYPE                              SERVICE_CI INC_PRIORITY       ASSIGNEE INC_STATUS  INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2017-04-04  INC000006101128  nl - hq - Controller batch not running  User Service Request                       cognos controller         High  Sujeet Ranjan   Resolved               0                    0  User Service Request      OBP  201714
+  2017-09-22  INC000007556022            nl - hq -  cognos Controller  User Service Request  cognos controller (frango) application       Medium              0   Resolved               0  2017-10-16 00:00:00  User Service Request      OBP  201738
