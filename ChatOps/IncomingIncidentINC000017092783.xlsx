@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER            SMRRY               INCIDENT_TYPE                SERVICE_CI INC_PRIORITY ASSIGNEE INC_STATUS  INC_RESOLUTION    LAST_RESOLVED_DAT            INC_CATEGORY SOL_AREA   YR_WK
+  2018-11-22  INC000010599708  Enable the jobs  Infrastructure Restoration  psl analysis application       Medium        0   Resolved               0  2018-11-22 00:00:00  Platform Related Issue     P&FU  201847
+  2018-04-18  INC000008962594  Enable the jobs  Infrastructure Restoration  psl analysis application       Medium        0   Resolved               0  2018-04-19 00:00:00  Platform Related Issue     P&FU  201816
