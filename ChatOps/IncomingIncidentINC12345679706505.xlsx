@@ -1,3 +1,3 @@
-CREATION_DAT  INCIDENT_NUMBER                                              SMRRY         INCIDENT_TYPE SERVICE_CI INC_PRIORITY       ASSIGNEE INC_STATUS  INC_RESOLUTION LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
-  2016-04-21  INC000004588240  in - ch - data stage job got Locked at DEELOPM...  User Service Request       icc4       Medium  Arvind Sharma   Resolved               0                 0  User Service Request      OBP  201616
-  2016-04-21  INC000004588240  in - ch - data stage job got Locked at DEELOPM...  User Service Request       icc4       Medium              0   Resolved               0                 0  User Service Request      OBP  201616
+CREATION_DAT  INCIDENT_NUMBER                                  SMRRY         INCIDENT_TYPE             SERVICE_CI INC_PRIORITY      ASSIGNEE INC_STATUS  INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2018-06-13  INC000009409883  Cognos Platform Request - Environment  User Service Request  isom reporting cognos          Low  Deepa Paleti   Resolved               0  2018-06-14 00:00:00  User Service Request      OBP  201824
+  2018-07-26  INC000009741152  Cognos Platform Request - Environment  User Service Request         isom analytics          Low  Deepa Paleti   Resolved               0  2018-07-30 00:00:00  User Service Request      OBP  201830
