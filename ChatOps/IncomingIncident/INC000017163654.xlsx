@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER   SMRRY         INCIDENT_TYPE                    SERVICE_CI INC_PRIORITY                ASSIGNEE INC_STATUS INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2017-01-19  INC000005665614  Cognos  User Service Request                          icc4          Low  Venkateswarlu Manubolu   Redirect              0                    0  User Service Request      OBP  201703
+  2019-07-02  INC000012907062  Cognos  User Service Request  cognos analytics application       Medium          Shravika danda   Resolved              0  2019-07-04 00:00:00  User Service Request      OBP  201927
