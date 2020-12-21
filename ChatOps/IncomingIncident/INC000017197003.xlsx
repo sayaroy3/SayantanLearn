@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER     SMRRY         INCIDENT_TYPE          SERVICE_CI INC_PRIORITY                ASSIGNEE   INC_STATUS                                     INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2020-10-01  INC000016488899  FW: BABS  User Service Request  p and fu reporting          Low  Vijayaprabha Murugesan  In-Progress                                                  0                    0  User Service Request     P&FU  202040
+  2020-09-21  INC000016330023  FW: BABS  User Service Request            qv inter       Medium           Javed Hussain     Resolved  Qlikview access is granted to user and below u...  2020-09-24 00:00:00  User Service Request     P&FU  202039
