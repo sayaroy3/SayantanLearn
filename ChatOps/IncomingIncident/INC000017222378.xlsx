@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER                       SMRRY               INCIDENT_TYPE           SERVICE_CI INC_PRIORITY      ASSIGNEE INC_STATUS                                     INC_RESOLUTION    LAST_RESOLVED_DAT            INC_CATEGORY SOL_AREA   YR_WK
+  2020-10-07  INC000016556733  Refresh cubes in Baby Blue  Infrastructure Restoration  market sales report          Low  Sayantan Roy   Resolved  As requested, MSR Dynamic Cube in Baby Blue ha...  2020-10-07 00:00:00  Platform Related Issue      OBP  202041
+  2020-09-29  INC000016453458  Refresh Cubes in Baby Blue  Infrastructure Restoration  market sales report          Low    Anjali Rai  Cancelled                                     Cube Refreshed  2020-09-29 00:00:00  Platform Related Issue      OBP  202040
