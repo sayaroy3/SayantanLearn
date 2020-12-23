@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER                  SMRRY               INCIDENT_TYPE  SERVICE_CI INC_PRIORITY            ASSIGNEE INC_STATUS INC_RESOLUTION LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2016-07-07  INC000004856762  Cognos Access to user  Infrastructure Restoration         mdb         High  Himanshu Chaudhary   Redirect              0                 0  Access Related Issue      OTH  201627
+  2016-08-25  INC000005025973  Cognos access to user  Infrastructure Restoration  cognos cns       Medium       Sujeet Ranjan   Redirect              0                 0  Access Related Issue      OBP  201634
