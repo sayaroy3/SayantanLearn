@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER   SMRRY               INCIDENT_TYPE SERVICE_CI INC_PRIORITY         ASSIGNEE INC_STATUS INC_RESOLUTION    LAST_RESOLVED_DAT            INC_CATEGORY SOL_AREA   YR_WK
+  2017-05-23  INC000006513064  COGNOS  Infrastructure Restoration       cods       Medium     Deepa Paleti   Resolved              0                    0  Platform Related Issue      OBP  201721
+  2018-10-03  INC000010208850  Cognos  Infrastructure Restoration  wh cognos       Medium  Suvradeep Ghosh   Resolved              0  2018-10-19 00:00:00              Data Issue      OBP  201840
