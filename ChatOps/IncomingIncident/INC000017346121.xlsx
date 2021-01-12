@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER            SMRRY               INCIDENT_TYPE      SERVICE_CI INC_PRIORITY      ASSIGNEE INC_STATUS INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2019-04-14  INC000012350030  qlikview access  Infrastructure Restoration  qlikview inter       Medium  Varsha Tyagi   Redirect              0  2019-05-02 00:00:00  Access Related Issue     P&FU  201916
+  2019-05-06  INC000012533621           access  Infrastructure Restoration  qlikview inter       Medium  Varsha Tyagi   Resolved              0  2019-05-08 00:00:00  Access Related Issue     P&FU  201919
