@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER                SMRRY         INCIDENT_TYPE           SERVICE_CI INC_PRIORITY ASSIGNEE INC_STATUS INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2018-04-03  INC000008843900  Market Sales Report  User Service Request  market sales report       Medium        0   Resolved              0  2018-04-11 00:00:00  User Service Request      OBP  201814
+  2018-04-30  INC000009042166  Market Sales Report  User Service Request  market sales report          Low        0   Resolved              0  2018-05-08 00:00:00  User Service Request      OBP  201818
