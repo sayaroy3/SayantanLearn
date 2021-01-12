@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER   SMRRY         INCIDENT_TYPE                  SERVICE_CI INC_PRIORITY           ASSIGNEE INC_STATUS        INC_RESOLUTION    LAST_RESOLVED_DAT          INC_CATEGORY SOL_AREA   YR_WK
+  2020-10-07  INC000016567107  access  User Service Request              ca application       Medium     Sameer Navathe   Redirect                     0                    0  User Service Request      OBP  202041
+  2019-10-25  INC000013646763  Access  User Service Request  multichannel kpi dashboard       Medium  Maryna Borshchova   Resolved  ?????? ????????????.  2019-10-28 00:00:00  User Service Request      OBP  201943
