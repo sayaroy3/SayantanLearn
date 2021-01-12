@@ -1,1 +1,1 @@
-Incident Number: INC000017323528, Requested to Solve by Incident :INC000005231990 , Assigned Group:IBM-CMB-BPT-SL2, Solution Area: P&FU, Automation: Cognos access, cluster: 3
+Incident Number: INC000017346175, Requested to Solve by Incident :INC000014241156 , Assigned Group:IBM-CMB-BPT-SL2, Solution Area: P&FU, Automation: QlikView Inter access, cluster: 38
