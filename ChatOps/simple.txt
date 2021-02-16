@@ -1,1 +1,1 @@
-Incident Number: INC000017598727, Requested to Solve by Incident :INC000016487038 , Assigned Group:IBM-CMB-BPT-SL2, Solution Area: OBP, Automation: MCKPI cube refresh, cluster: 15, Notes:Hi TeamMSR cube refresh in babyblue.RegardsShravika danda
+Incident Number: INC000017603357, Requested to Solve by Incident :INC000016693760 , Assigned Group:IBM-CMB-BPT-SL2, Solution Area: OBP, Automation: MCKPI cube refresh, cluster: 15, Notes:Hi TeamPlease perform the MSR Cube Refresh in Baby Blue.RegardsAbhishek Agrawal
