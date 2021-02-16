@@ -1,0 +1,3 @@
+CREATION_DAT  INCIDENT_NUMBER             SMRRY               INCIDENT_TYPE           SERVICE_CI INC_PRIORITY ASSIGNEE INC_STATUS INC_RESOLUTION    LAST_RESOLVED_DAT            INC_CATEGORY SOL_AREA   YR_WK
+  2020-10-01  INC000016487038  MSR Cube Refresh  Infrastructure Restoration  market sales report          Low        0  Cancelled           Test  2020-10-01 00:00:00              Data Issue      OBP  202040
+  2020-12-01  INC000017029581  MSR cube refresh  Infrastructure Restoration              missing          Low        0  Cancelled              0  2020-12-01 00:00:00  Platform Related Issue      OBP  202049
